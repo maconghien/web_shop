@@ -111,7 +111,7 @@ $quanAo = [
         [
             'id' => 114,
             'name' => 'Bộ quần áo thể thao nam nữ in Hold Right',
-            'price' => 95000,
+            'price' => 9500,
             'stock' => 30,
             'image' => 'https://salt.tikicdn.com/cache/750x750/ts/product/c8/49/93/af74750d0d3ca1bf7a5761c1572d8143.jpg.webp',
             'detail' => [
@@ -128,7 +128,7 @@ $quanAo = [
         [
             'id' => 115,
             'name' => 'Bộ đồ nam y hình, vải êm, mát, không ra màu, không đổ lông',
-            'price' => 66000,
+            'price' => 6600,
             'stock' => 30,
             'image' => 'https://salt.tikicdn.com/cache/750x750/ts/product/e0/d0/c3/91e4077fd51d32a98087b40138c73f6c.jpg.webp',
             'detail' => [
@@ -212,7 +212,7 @@ $quanAo = [
         [
             'id' => 118,
             'name' => 'Áo sơ mi nam trơn tay dài cao cấp Lados - 779 chất kate lụa mềm mát, thấm hút mồ hôi',
-            'price' => 139000,
+            'price' => 13900,
             'stock' => 30,
             'image' => 'https://salt.tikicdn.com/cache/750x750/ts/product/48/aa/f9/c6233b9cf5225a8c2e8dd4513377587c.jpg.webp',
             'detail' => [
