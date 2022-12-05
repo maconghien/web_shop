@@ -36,7 +36,7 @@ $quanAo = [
         [
             'id' => 111,
             'name' => 'Áo khoác nỉ bomber nam nữ',
-            'price' => 110000,
+            'price' => 11000,
             'stock' => 30,
             'image' => 'https://cf.shopee.vn/file/sg-11134201-22110-r4clhpc33dkv9b',
             'detail' => [
