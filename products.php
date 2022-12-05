@@ -36,7 +36,7 @@ $quanAo = [
         [
             'id' => 111,
             'name' => 'Áo khoác nỉ bomber nam nữ',
-            'price' => 110000,
+            'price' => 10000,
             'stock' => 30,
             'image' => 'https://cf.shopee.vn/file/sg-11134201-22110-r4clhpc33dkv9b',
             'detail' => [
@@ -187,7 +187,7 @@ $quanAo = [
         [
             'id' => 118,
             'name' => 'Quần tây nam Hàn Quốc ống côn công sở cao cấp Hamino ',
-            'price' => 62000,
+            'price' => 6000,
             'stock' => 30,
             'image' => 'https://salt.tikicdn.com/cache/750x750/ts/product/f6/11/02/0aba151cdd7d45f0b21b237670b5f922.jpg.webp',
             'detail' => [
@@ -212,7 +212,7 @@ $quanAo = [
         [
             'id' => 118,
             'name' => 'Áo sơ mi nam trơn tay dài cao cấp Lados - 779 chất kate lụa mềm mát, thấm hút mồ hôi',
-            'price' => 139000,
+            'price' => 19000,
             'stock' => 30,
             'image' => 'https://salt.tikicdn.com/cache/750x750/ts/product/48/aa/f9/c6233b9cf5225a8c2e8dd4513377587c.jpg.webp',
             'detail' => [
@@ -267,7 +267,7 @@ $giayDep = [
         [
             'id' => 221,
             'name' => 'Giày Đá Bóng Sân Cỏ Nhân Tạo Prowin S50 Đen - Gian hàng Chính Hãng',
-            'price' => 213000,
+            'price' => 23000,
             'stock' => 60,
             'image' => 'https://salt.tikicdn.com/cache/750x750/ts/product/3c/07/a8/5a721527c31769a0f4a5ad6413439274.jpg.webp',
             'detail' => [
