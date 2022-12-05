@@ -443,7 +443,7 @@ $giayDep = [
         [
             'id' => 229,
             'name' => 'Giày Thể Thao Nam MENDO - Giày Sneaker Đen Xanh - Đỏ Trắng - Kaki, Đế Phẩy, Êm Chân - G5005',
-            'price' => 299000,
+            'price' => 29,
             'stock' => 60,
             'image' => 'https://salt.tikicdn.com/cache/750x750/ts/product/f9/b5/68/037f56b1329ab00c3e04e9ff5ba55944.jpg.webp',
             'detail' => [
