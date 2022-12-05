@@ -86,7 +86,7 @@ $quanAo = [
         [
             'id' => 113,
             'name' => 'Bộ quần áo thun',
-            'price' => 99000,
+            'price' => 9000,
             'stock' => 30,
             'image' => 'https://salt.tikicdn.com/cache/750x750/ts/product/22/93/7b/009f028cd89c9537bb0ee8ca507b9037.jpg.webp',
             'detail' => [
